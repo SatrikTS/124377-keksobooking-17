@@ -1,9 +1,9 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Satrik Satrik](https://up.htmlacademy.ru/javascript/17/user/124377).
-* Наставник: `Неизвестно`.
+* Наставник: `Самоучитель`.
 
----
+--- 
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `package-lock.json`, `package.json`._
